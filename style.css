@@ -1,0 +1,41 @@
+.bg-black{
+    background-color: black;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.font-div{
+    width: 30%;
+}
+/*
+/////responsive*/
+@media only screen and (min-width:1198px){
+    .font-div{
+        padding:66.7px 0px!important;
+    }
+}
+.p-5.bg-dark.text-center{
+
+padding:0px;
+}
+div.container1{
+    margin-left: 212.5px;
+    margin-right: 302px;
+    width: 136.5vh;
+}
+a:hover{
+    text-decoration: none;
+}
+a:link{
+    text-decoration: none;
+}
+a:active{
+ text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+}
+i{
+    color: white;
+}
